@@ -1,0 +1,30 @@
+{
+  "name": "amethyst",
+  "version": "1.0.0",
+  "description": "It's just Amethyst \"Lyx Handler\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enderfire99/Turty-2.0.git"
+  },
+  "keywords": [],
+  "author": "AlsoSpeed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enderfire99/Turty-2.0/issues"
+  },
+  "homepage": "https://github.com/enderfire99/Turty-2.0#readme",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "chalk": "^2.4.1",
+    "discord.js": "^14.3.0",
+    "dotenv": "^16.0.3",
+    "glob": "^8.0.3",
+    "mongoose": "^6.5.3",
+    "node-fetch": "^2.6.8",
+    "promisify": "^0.0.3"
+  }
+}
